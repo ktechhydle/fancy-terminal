@@ -1,5 +1,6 @@
 name = "fancy_terminal"
 description = "Colorize the terminal in GLang"
+authors = ["Keller Hydle"]
 version = "1.0"
 entry = "lib.glang"
 requires = []
