@@ -1,2 +1,6 @@
 # fancy_terminal
-Terminal coloring kennel for GLang
+Colorize the terminal - in GLang!
+
+```
+glang install fancy_terminal
+```
