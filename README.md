@@ -2,7 +2,7 @@
 glang install fancy_terminal
 ```
 
-# fancy_terminal
+# `fancy_terminal`
 Colorize the terminal - in GLang!
 
 ```
