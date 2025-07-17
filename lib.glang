@@ -1,4 +1,5 @@
 # Terminal Colors!
+# Inspired by the Rust crate 'simply_colored'
 
 # Reset styling
 obj RESET = "\x1b[0m";
