@@ -1,14 +1,14 @@
 ```
-glang install fancy_terminal
+glang install fancy-terminal
 ```
 
-# `fancy_terminal`
+# `fancy-terminal`
 Colorize the terminal - in GLang!
 
 ```
 fetch fancy_terminal;
 
-bark(GREEN + "All systems running" + RESET)
+bark(GREEN + "All systems running" + RESET);
 ```
 
 ## Usage
