@@ -1,5 +1,5 @@
-# Terminal Colors!
-# Inspired by the Rust crate 'simply_colored'
+# Terminal Colors
+# glang port of the rust crate 'simply_colored' (https://crates.io/crates/simply_colored)
 
 # Reset styling
 obj RESET = "\e[0m";
